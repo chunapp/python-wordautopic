@@ -1,26 +1,10 @@
-# python ¦Û°Ê´¡¹Ï
+# python è‡ªå‹•æ’åœ–
 
-- 1x.py¾A¦X¾î¦¡ªº¹q¸£ºI¹Ï¡A³æ±Æ¤@­¶·|´¡¨â±i
-- 2x.py¾A¦Xª½¦¡ªº¤â¾÷ºI¹Ï¡AÂù±Æ¤@­¶·|´¡¥|±i
-- 1x_filename.py¸ò2x_filename.py¸ò¤W­±¤@¼Ë¥\¯à¡A¥u¬O¼Æ¦r½s¸¹§ï¬°§ì¨úÀÉ®×¦WºÙ¡A½Ð¦Û¦æ¦b©R¦WÀÉ®×®É¥[¤J½s¸¹¡A¦p¡u1 ¤â¾÷·L«H»PXXX¹ï¸Ü¡v¡B¡u2 ¤â¾÷·L«H»PXXX³q¸Ü¡v µ¥
+- 1x.pyé©åˆæ©«å¼çš„é›»è…¦æˆªåœ–ï¼Œå–®æŽ’ä¸€é æœƒæ’å…©å¼µ
+- 2x.pyé©åˆç›´å¼çš„æ‰‹æ©Ÿæˆªåœ–ï¼Œé›™æŽ’ä¸€é æœƒæ’å››å¼µ
+- 1x_filename.pyè·Ÿ2x_filename.pyè·Ÿä¸Šé¢ä¸€æ¨£åŠŸèƒ½ï¼Œåªæ˜¯æ•¸å­—ç·¨è™Ÿæ”¹ç‚ºæŠ“å–æª”æ¡ˆåç¨±ï¼Œè«‹è‡ªè¡Œåœ¨å‘½åæª”æ¡ˆæ™‚åŠ å…¥ç·¨è™Ÿï¼Œå¦‚ã€Œ1 æ‰‹æ©Ÿå¾®ä¿¡èˆ‡XXXå°è©±ã€ã€ã€Œ2 æ‰‹æ©Ÿå¾®ä¿¡èˆ‡XXXé€šè©±ã€ ç­‰
 
-## how to use
 
-- ¦w¸Ë[python3.8](https://www.python.org/downloads/)
-- ¤U¸ü¾ã­Óµ{¦¡½X
-- ¦w¸Ë¨ç¦¡®w pip install python-docx¡]·|¦Û°Ê³slxml¤@°_¦w¸Ë¡^
-- §â¹Ï¤ù©ñ¨ìcaptures¸ê®Æ§¨¤º
-- °õ¦æpyÀÉ
-- ·|²£¥Xµ²ªGªºoutputÀÉ®×
+## æ³¨æ„
 
-## ¤ººô¾×pipª¬ªp
-
-- »Ý­n¤â°Ê¦w¸Ëdocx»Plxml
-- ¡]¦w¸Ëpython-docx¡^§âdocx.rar¸ÑÀ£ÁY¨ì[§A¦w¸Ëpythonªº¸ô®|]/Lib/site-packages©³¤U
-- ¡]¦w¸Ëlxml¡^§âlxml-4.5.0-cp38-cp38-win32.whl½Æ»s¨ì[§A¦w¸Ëpythonªº¸ô®|]/Scripts©³¤U¡A¦b[§A¦w¸Ëpythonªº¸ô®|]/Scripts°õ¦æpip install lxml-4.5.0-cp38-cp38-win32.whl
-- Done!
-
-## ª`·N
-
-- ¤£­n°Ê¨ìtemplate(dont-touch-it).docx¡A³o­ÓÀÉ®×¬O¥Î¨Ó¥ý´¡¤J­¶½Xªº¡A¦]¬°python-docx¨ç¦¡®w»ª¦ü¨S¦³¤ä´©­¶½X
-- ¦pªG§A¦w¸Ë¨ì§Oªºª©¥»ªºpython¡A¤â°Ê¦w¸Ëlxml¨ºÃä¥i¯à·|¥¢±Ñ¡A­n¨Ó[³oÃä](https://pypi.org/project/lxml/#files)¤U¸ü¹ïÀ³ªºª©¥»
+- ä¸è¦å‹•åˆ°template(dont-touch-it).docxï¼Œé€™å€‹æª”æ¡ˆæ˜¯ç”¨ä¾†å…ˆæ’å…¥é ç¢¼çš„ï¼Œå› ç‚ºpython-docxå‡½å¼åº«è²Œä¼¼æ²’æœ‰æ”¯æ´é ç¢¼
